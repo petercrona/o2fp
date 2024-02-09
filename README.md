@@ -1,6 +1,6 @@
 # o2fp
 
-I recommend first having a look at [the PDF learning report](report.pdf). I believe this report does a good job at explaining the main ideas.
+I recommend first having a look at [the PDF learning report](https://github.com/petercrona/o2fp/raw/main/report.pdf). I believe this report does a good job at explaining the main ideas.
 
 ## Try it
 
